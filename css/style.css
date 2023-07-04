@@ -8,6 +8,66 @@
 	width: 500px;
 	float: left;
 }
+header {
+    overflow: hidden;
+}
+
+body{
+	background-color: green; 
+    color: black;
+}
+.logo{
+	float: right;
+	margin-right: 30px;
+	width: 250px;
+	height: 150px;
+	margin-top: 30px;
+	
+}
+.nav-item {
+    float: left;
+    margin-left: 50px;
+    font-size: 30px;
+    color: white;
+
+
+}
+.nav-a{
+	margin-left: 350px;
+	margin-top: 30px;
+
+}
 .clear{
 	clear: both;
+}
+
+.framed-section{
+	float: left;
+	border: 1px solid #ccc;
+	width: 700px;
+	padding: 15px; 
+    margin-left: 50px;
+	background-color: yellow;
+	margin-top: 50px;
+}
+
+
+.comp{
+	float: right;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.p2{
+	margin-top: 20px;
+}
+
+.framed-section2{
+	float: right;
+    border: 1px solid #ccc;
+	width: 700px;
+	padding: 15px; 
+    
+	background-color: yellow;
+	margin-top: 50px;
+	margin-right: 50px;
 }
